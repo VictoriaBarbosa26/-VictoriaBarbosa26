@@ -1,4 +1,4 @@
-# Olá, eu sou Victoria Barbosa! 👋
+# Olá, eu me chamo Victoria Barbosa! 👋
 
 ![Banner](https://github.com/VictoriaBarbosa26/-VictoriaBarbosa26/blob/main/banner.gif?raw=true)
 
