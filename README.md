@@ -51,18 +51,9 @@ Sou uma desenvolvedora apaixonada por superar desafios e criar soluções criati
 
 ---
 
-### 🎓 **Certificações e Cursos**
-- [**Certificação em Node.js**](https://linkparacertificacao.com)
-- [**Certificação em React**](https://linkparacertificacao.com)
-- [**Curso de UX/UI Design**](https://linkparacurso.com)
-
----
-
 ### 📫 **Contatos**
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/VictoriaBarbosa26)](https://linkedin.com/in/VictoriaBarbosa26)  
-  [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victoria@example.com)](mailto:victoria@example.com)
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/VictoriaBarbosa26)](https://linkedin.com/in/VictoriaBarbosa26)  
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victoria@example.com)](mailto:victoria@example.com)
 
 ---
 
