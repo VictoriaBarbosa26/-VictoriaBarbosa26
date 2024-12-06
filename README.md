@@ -1,6 +1,6 @@
 # Oiie, eu me chamo Victória Barbosa! 👋
 
-![Banner](link-da-imagem) <!-- Opcional: adicione um banner no topo -->
+![Banner](https://github.com/VictoriaBarbosa26/-VictoriaBarbosa26/blob/main/banner.gif?raw=true) <!-- Opcional: adicione um banner no topo -->
 
 Sou uma desenvolvedora recém-formada no curso técnico integrado ao ensino médio em Desenvolvimento de Sistemas. Sou apaixonada por desenvolvimento Back-End, mas também gosto de explorar o mundo do Front-End! 🚀  
 Aqui você encontrará informações sobre minhas habilidades, projetos e interesses na área de tecnologia.
