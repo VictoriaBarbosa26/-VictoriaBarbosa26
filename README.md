@@ -61,7 +61,7 @@ Sou formada em **Técnico em Desenvolvimento de Sistemas** e estou em busca de n
 ---
 
 ### 🔗 **Projetos em Destaque**
-- [**Projeto de Aplicativo de TCC**](https://github.com/VictoriaBarbosa26/login-firebase)  
+- [**Projeto de Aplicativo de TCC - ScanView**](https://github.com/VictoriaBarbosa26/ScanViewAPP)  
 - [**Catálogo de Livros**](https://github.com/VictoriaBarbosa26/Node/tree/main/book-catalog)  
 
 ---
