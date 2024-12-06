@@ -68,7 +68,7 @@ Sou formada em **Técnico em Desenvolvimento de Sistemas** e estou em busca de n
 
 ### 📫 **Contatos**
 <div style="text-align: center;">
-  <a href="www.linkedin.com/in/victória-barbosa-367748340">
+  <a href="https://www.linkedin.com/in/victória-barbosa-367748340">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="mailto:victoria.barbosab26@example.com">
