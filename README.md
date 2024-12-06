@@ -59,8 +59,8 @@ Acabei de me formar em **Técnica em Desenvolvimento de Sistemas** e estou em bu
 ---
 
 ### 🎓 **Certificações e Cursos**
-- **[Certificação em Desenvolvimento Web](#)**  
-- **[Curso de Backend com Node.js](#)**  
+- **[Certificação em Desenvolvimento Web]**  
+- **[Curso de Backend com Node.js]**  
 
 ---
 
