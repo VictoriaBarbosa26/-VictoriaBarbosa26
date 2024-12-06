@@ -1,21 +1,24 @@
-# Oiih, eu me chamo Victória Barbosa! 👋
+# Olá, eu sou [Seu Nome]! 👋
 
-https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif <!-- Opcional: adicione um banner no topo -->
+![Banner](link-da-imagem) <!-- Opcional: adicione um banner no topo -->
 
-Sou desenvolvedor apaixonado por criar soluções criativas com tecnologia. Aqui você encontrará informações sobre minhas habilidades, projetos e mais!
+Sou uma desenvolvedora recém-formada no curso técnico integrado ao ensino médio em Desenvolvimento de Sistemas. Sou apaixonada por desenvolvimento Back-End, mas também gosto de explorar o mundo do Front-End! 🚀  
+Aqui você encontrará informações sobre minhas habilidades, projetos e interesses na área de tecnologia.
 
 ---
 
 ### 🌟 **Áreas de Interesse**
-- Desenvolvimento Front-End: HTML, CSS, JavaScript, React.
-- Desenvolvimento Back-End: Node.js, Express, APIs REST.
+- Desenvolvimento Back-End: Node.js, APIs REST, Firebase, Python.
+- Desenvolvimento Front-End: HTML, CSS, JavaScript.
+- Bancos de Dados: MySQL, MongoDB, Firebase.
 
 ---
 
 ### 🛠️ **Habilidades**
-- **Linguagens:** JavaScript, Python, HTML, CSS.
-- **Banco de Dados:** MySQL, MongoDB.
+- **Linguagens:** JavaScript, Python, Node.js, CSS, HTML.
+- **Banco de Dados:** MySQL, Firebase, MongoDB.
 - **Ferramentas:** Git, VSCode, Figma.
+- **Outras Tecnologias:** Firebase Authentication, Deploy de APIs.
 
 ---
 
@@ -27,12 +30,16 @@ Sou desenvolvedor apaixonado por criar soluções criativas com tecnologia. Aqui
 ---
 
 ### 📫 **Contatos**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/SEULINK)](https://linkedin.com/in/SEULINK)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/SEULINK)](https://instagram.com/SEULINK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/SEULINK)](https://linkedin.com/in/SEULINK)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/SEULINK)](https://instagram.com/SEULINK)  
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEUEMAIL)](mailto:SEUEMAIL)
 
 ---
 
 ### 🔗 **Projetos em Destaque**
-- [Projeto 1](https://github.com/SEU_USUARIO/PROJETO1)
-- [Projeto 2](https://github.com/SEU_USUARIO/PROJETO2)
+- [Sistema de Login com Firebase](https://github.com/SEU_USUARIO/PROJETO1)  
+- [Calculadora em JavaScript](https://github.com/SEU_USUARIO/PROJETO2)  
+
+---
+
+✨ _Estou constantemente aprendendo e aprimorando minhas habilidades para construir soluções inovadoras e impactantes. Vamos colaborar?_
