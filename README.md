@@ -2,9 +2,9 @@
 
 ![Banner](https://github.com/VictoriaBarbosa26/-VictoriaBarbosa26/blob/main/banner.gif?raw=true)
 
-🌟 Transformando desafios complexos em soluções tecnológicas inovadoras.
+🌟 Transformando desafios em soluções inovadoras.
 
-Acabei de me formar em **Técnica em Desenvolvimento de Sistemas** e estou em busca de novas oportunidades. Sou uma desenvolvedora apaixonada por superar desafios e criar soluções criativas com tecnologia. Vejo a combinação de habilidades técnicas com visão estratégica como uma forma de continuar refinando e ampliando minhas habilidades. Estou sempre em busca de aprendizado contínuo para me manter atualizada com as melhores práticas do desenvolvimento ágil. Meu compromisso é transformar obstáculos em oportunidades e impulsionar projetos com soluções eficientes e elegantes.
+Acabei de me formar em **Técnica em Desenvolvimento de Sistemas** e estou em busca de novas oportunidades. Sou apaixonada por superar desafios e criar soluções criativas com tecnologia. Estou sempre em busca de aprendizado contínuo para me manter atualizada com as melhores práticas do desenvolvimento ágil. Meu compromisso é transformar obstáculos em oportunidades e impulsionar projetos com soluções eficientes e elegantes.
 
 ---
 
@@ -49,18 +49,23 @@ Acabei de me formar em **Técnica em Desenvolvimento de Sistemas** e estou em bu
 #### **Utilitários:**
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ### 📫 **Contatos**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/VictoriaBarbosa26)](https://linkedin.com/in/VictoriaBarbosa26)  
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victoria@example.com)](mailto:victoria@example.com)
+<div style="text-align: center;">
+  <a href="https://linkedin.com/in/VictoriaBarbosa26">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:victoria@example.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ### 🎓 **Certificações e Cursos**
-- **[Certificação em Desenvolvimento Web]**  
-- **[Curso de Backend com Node.js]**  
+- **[Certificação em Desenvolvimento Web](#)**  
+- **[Curso de Backend com Node.js](#)**  
 
 ---
 
@@ -70,4 +75,4 @@ Acabei de me formar em **Técnica em Desenvolvimento de Sistemas** e estou em bu
 
 ---
 
-✨ _Transformando ideias em códigos, soluções em realidade._
+✨ _Codificando ideias, criando soluções._
