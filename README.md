@@ -1,6 +1,6 @@
 # Oiih, eu me chamo Victória Barbosa! 👋
 
-!(https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif) <!-- Opcional: adicione um banner no topo -->
+https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif <!-- Opcional: adicione um banner no topo -->
 
 Sou desenvolvedor apaixonado por criar soluções criativas com tecnologia. Aqui você encontrará informações sobre minhas habilidades, projetos e mais!
 
