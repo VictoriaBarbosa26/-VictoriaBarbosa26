@@ -4,7 +4,7 @@
 
 🌟 Transformando desafios em soluções inovadoras.
 
-Acabei de me formar em **Técnica em Desenvolvimento de Sistemas** e estou em busca de novas oportunidades. Sou apaixonada por superar desafios e criar soluções criativas com tecnologia. Estou sempre em busca de aprendizado contínuo para me manter atualizada com as melhores práticas do desenvolvimento ágil. Meu compromisso é transformar obstáculos em oportunidades e impulsionar projetos com soluções eficientes e elegantes.
+Sou formada em **Técnico em Desenvolvimento de Sistemas** e estou em busca de novas oportunidades. Sou apaixonada por superar desafios e criar soluções criativas com tecnologia. Estou sempre em busca de aprendizado contínuo para me manter atualizada com as melhores práticas do desenvolvimento ágil. Meu compromisso é transformar obstáculos em oportunidades e impulsionar projetos com soluções eficientes e elegantes.
 
 ---
 
@@ -64,8 +64,8 @@ Acabei de me formar em **Técnica em Desenvolvimento de Sistemas** e estou em bu
 ---
 
 ### 🎓 **Certificações e Cursos**
-- **[Certificação em Desenvolvimento Web](#)**  
-- **[Curso de Backend com Node.js](#)**  
+- **Certificação em Desenvolvimento Web**  
+- **Curso de Backend com Node.js**  
 
 ---
 
