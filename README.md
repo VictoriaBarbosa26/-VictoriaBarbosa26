@@ -32,7 +32,7 @@ Sou formada em **Técnico em Desenvolvimento de Sistemas** e estou em busca de n
 ### 🛠️ **Habilidades**
 
 <div style="display: flex; align-items: center;">
-  <img src="URL_DA_IMAGEM_AQUI" alt="Imagem" width="150" style="margin-right: 20px; border-radius: 8px;"/>
+  <img src="[https://github.com/VictoriaBarbosa26/-VictoriaBarbosa26]" alt="Imagem" width="150" style="margin-right: 20px; border-radius: 8px;"/>
   <div>
     <p><b>Principal:</b></p>
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
