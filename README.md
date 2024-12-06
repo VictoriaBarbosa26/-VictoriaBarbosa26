@@ -51,6 +51,21 @@ Sou formada em **Técnico em Desenvolvimento de Sistemas** e estou em busca de n
 
 ---
 
+
+### 🎓 **Certificações e Cursos**
+- **Tecnico em desenvolvimento de sistemas - Etec Ilza Nascimento Pintus**  
+- **Imersão Dev Back-End - ALURA**
+- **Fundamentos de segurança cibernética - Cisco NetWorking Academy**
+- **Segurança da Informação - Cisco NetWorking Academy** 
+
+---
+
+### 🔗 **Projetos em Destaque**
+- [**Projeto de Aplciativo de TCC**](https://github.com/VictoriaBarbosa26/login-firebase)  
+- [**Catálogo de Livros**](https://github.com/VictoriaBarbosa26/calculadora-js)  
+
+---
+
 ### 📫 **Contatos**
 <div style="text-align: center;">
   <a href="https://linkedin.com/in/VictoriaBarbosa26">
@@ -63,18 +78,5 @@ Sou formada em **Técnico em Desenvolvimento de Sistemas** e estou em busca de n
 
 ---
 
-### 🎓 **Certificações e Cursos**
-- **Tecnico em desenvolvimento de sistemas - Etec Ilza Nascimento Pintus**  
-- **Imersão Dev Back-End - ALURA**
-- **Fundamentos de segurança cibernética - Cisco NetWorking Academy**
-- **Segurança da Informação - Cisco NetWorking Academy** 
-
----
-
-### 🔗 **Projetos em Destaque**
-- [**Sistema de Login com Firebase**](https://github.com/VictoriaBarbosa26/login-firebase)  
-- [**Calculadora em JavaScript**](https://github.com/VictoriaBarbosa26/calculadora-js)  
-
----
-
 ✨ _Codificando ideias, criando soluções._
+
