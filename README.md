@@ -12,10 +12,9 @@ Sou formada em **Técnico em Desenvolvimento de Sistemas** e estou em busca de n
 
 #### Desenvolvimento Front-end
 - Criar interfaces atraentes e funcionais com **HTML**, **CSS**, **JavaScript** e **React**.
-- Explorar **UX/UI Design** para melhorar a experiência e usabilidade das aplicações web.
 
 #### Desenvolvimento Back-end
-- Profunda experiência com **Node.js**, **Express**, **Firebase** e **APIs RESTful** para desenvolvimento escalável.
+- Experiência prática com Node.js, Express, Firebase e APIs RESTful para criar aplicações escaláveis e robustas.
 
 #### Aprendizado Contínuo
 - Busco constantemente **certificações e cursos** que aprimorem minhas habilidades técnicas e criativas.
