@@ -55,7 +55,8 @@ Sou formada em **Técnico em Desenvolvimento de Sistemas** e estou em busca de n
 - **Tecnico em desenvolvimento de sistemas - Etec Ilza Nascimento Pintus**  
 - **Imersão Dev Back-End - ALURA**
 - **Fundamentos de segurança cibernética - Cisco NetWorking Academy**
-- **Segurança da Informação - Cisco NetWorking Academy** 
+- **Segurança da Informação - Cisco NetWorking Academy**
+- **Acelerador de carreira com Power BI - Empowerdata** 
 
 ---
 
